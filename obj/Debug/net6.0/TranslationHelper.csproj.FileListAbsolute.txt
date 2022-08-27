@@ -1,0 +1,15 @@
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.csproj.AssemblyReference.cache
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.GeneratedMSBuildEditorConfig.editorconfig
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.AssemblyInfoInputs.cache
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.AssemblyInfo.cs
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.csproj.CoreCompileInputs.cache
+/home/lexize/TranslationHelper/bin/Debug/net6.0/TranslationHelper
+/home/lexize/TranslationHelper/bin/Debug/net6.0/TranslationHelper.deps.json
+/home/lexize/TranslationHelper/bin/Debug/net6.0/TranslationHelper.runtimeconfig.json
+/home/lexize/TranslationHelper/bin/Debug/net6.0/TranslationHelper.dll
+/home/lexize/TranslationHelper/bin/Debug/net6.0/TranslationHelper.pdb
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.dll
+/home/lexize/TranslationHelper/obj/Debug/net6.0/refint/TranslationHelper.dll
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.pdb
+/home/lexize/TranslationHelper/obj/Debug/net6.0/TranslationHelper.genruntimeconfig.cache
+/home/lexize/TranslationHelper/obj/Debug/net6.0/ref/TranslationHelper.dll
